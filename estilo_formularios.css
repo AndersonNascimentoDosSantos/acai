@@ -1,0 +1,51 @@
+﻿
+/* regras css com Classe para os elementos de formulários */
+
+.check {
+    font-family: 'Trebuchet MS';
+    font-size: 13px;
+    color: rgb(254,121,2);
+
+}
+
+.botao {
+    background-color: rgb(7,152,40);
+    border: 1px solid rgb(7,152,40);
+    font-family: 'Trebuchet MS';
+    font-size: 13px;
+    color: rgb(255,255,255);
+    width: 100px;
+    height: 25px;
+    margin-top: 2px;
+    border-radius:4px;
+    box-shadow:2px 2px 5px rgb(128, 128, 128);
+ 
+}
+
+.textbox, .textBoxMaior {
+    margin-top: 2px;
+    font-family: 'Trebuchet MS';
+    font-size: 13px;
+    border: 1px solid rgb(7,152,40);
+    border-radius:4px;
+    box-shadow:2px 2px 5px rgb(128, 128, 128);
+    color:rgb(7,152,40);
+}
+
+
+.textBoxMaior {
+    height: 150px;
+ 
+}
+
+.dropDown {
+    width: 250px;
+    height: 20px;
+    margin-top: 2px;
+    font-family: 'Trebuchet MS';
+    font-size: 13px;
+    border: 1px solid rgb(7,152,40);
+    border-radius:4px;
+    box-shadow:2px 2px 5px rgb(128, 128, 128);
+    color:rgb(7,152,40);
+}
